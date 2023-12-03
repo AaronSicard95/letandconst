@@ -1,0 +1,9 @@
+const PI = 3.14;
+PI = 42; // PI will not changes
+
+var is function level, let is only block level
+
+const can't be changed and is only block level,
+var can be changed and re-declared and is function level
+
+const can't be changed, let can
